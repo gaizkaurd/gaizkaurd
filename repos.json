@@ -1,15 +1,9 @@
-  { repositories: 
-    {
-      name: 'Asd'
-    
-    
-    },
-    
-    {
-      name: 'ASD'
-    
-    
-    }
-  
-  
-  }
+[
+   {
+      "name":"asd"
+
+   },
+   {
+      "name: "ASD"
+   }
+]
