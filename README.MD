@@ -1,6 +1,6 @@
 # ¡Hola!
 
-Soy estudiante de Ingeniería Informática en la UAM
+Soy estudiante de Ingeniería Informática en la <p class="text-green-400">UAM</p>
 
 <p align="center">
   <b>
