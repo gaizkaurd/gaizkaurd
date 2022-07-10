@@ -1,6 +1,6 @@
-# ¡Hola!
+<h1 class="text-3xl font-extrabold">¡Hola, soy Gaizka!</h1>
 
-<p>Soy estudiante de Ingeniería Informática en la <span class="text-green-400">UAM</p>
+<p class="text-extralight">Soy estudiante de Ingeniería Informática en la <span class="text-green-600 fond-bold">UAM</span></p>
 
 <p align="center">
   <b>
