@@ -4,7 +4,7 @@
 
 <br/>
 
-<h2 class="text-3xl font-extrabold">¡Hello, I am Gaizka!</h1>
+<h2 class="text-3xl font-extrabold">Hello, I am Gaizka!</h1>
 <p class="font-extralight">Computer Science student at <span class="text-green-600 font-bold">UAM</span>.</p>
 
 <br/>
