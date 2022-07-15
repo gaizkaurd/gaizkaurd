@@ -12,6 +12,6 @@
 <p align="center">
   <b>
     <a href="https://gaizkaurdangarin.es">Mi web</a>  |  
-    <a href="">CV - Resume</a>
+    <a href="https://gaizkaurdangarin.es/resume.pdf">CV - Resume</a>
   </b>
 </p>
