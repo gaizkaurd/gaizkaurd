@@ -2,18 +2,21 @@
 
 <p class="font-extralight">Soy estudiante de Ingeniería Informática en la <span class="text-green-600 font-bold">UAM</span>.</p>
 
-- 🔭 Aprendiendo **Rails**
+<ul class="list-disc">
+<li>- 🔭 Aprendiendo **Rails**</li>
 
-- 🌱 Interesado en desarrollo de **aplicaciones escalables**
+<li>- 🌱 Interesado en desarrollo de **aplicaciones escalables**</li>
+</ul>
 
 <br/>
 
 <h2 class="text-3xl font-extrabold">Hello, I am Gaizka!</h1>
 <p class="font-extralight">Computer Science student at <span class="text-green-600 font-bold">UAM</span>.</p>
+<ul class="list-disc">
 
-- 🔭 I’m currently learning **Rails**
+<li>- 🔭 I’m currently learning **Rails**</li>
 
-- 🌱 I’m interested about **developing high scalable applications**
+<li>- 🌱 I’m interested about **developing highly scalable applications**</li>
 
 <br/>
 
