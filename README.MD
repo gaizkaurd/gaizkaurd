@@ -16,7 +16,7 @@
 
 <li>🔭 I’m currently learning <b>Rails</b></li>
 
-<li>🌱 I’m interested about <b>developing highly scalable applications</b></li>
+<li>🌱 I’m interested of <b>developing highly scalable applications</b></li>
 
 <br/>
 
